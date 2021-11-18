@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joabobly
+- 👋 Hi, I’m @joab muhindo butaka
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on development
